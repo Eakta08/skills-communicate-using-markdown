@@ -18,3 +18,7 @@ You might find all size of headers here from `<h1>` to `<h6>`... Happy Learning 
 # python code
 print('Hello World !')
 ```
+
+## List in markdowns
+- [x] This item is complete
+- [ ] This item is not complete
